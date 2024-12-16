@@ -9,27 +9,27 @@ Includes validation for secure and user-friendly authentication.
 The first point of interaction with the application.
 Showcases highlights, a clean layout, and intuitive navigation.
 
-3.Contact Us Page
+ 3.Contact Us Page
 Allows users to reach out with queries or feedback.
 Features a responsive form for seamless communication.
 
-4.About Us Page
+ 4.About Us Page
 Learn about the team and vision behind the project.
 Includes visually appealing design elements to build trust.
 
-5.Shop Page
+ 5.Shop Page
 Displays products or services in a visually engaging way.
 Includes filters and categories for better user experience.
 
-6.Cart Page
+ 6.Cart Page
 A comprehensive view of selected items ready for checkout.
 Includes item quantity management and a summary of charges.
 
-7.Payment Page
+ 7.Payment Page
 Secure and straightforward payment process integrated for transactions.
 Multiple payment options supported.
 
-8.User Profile Page
+ 8.User Profile Page
 Manage personal details, view orders, and track activities.
 Customizable settings for a personalized experience.
 
